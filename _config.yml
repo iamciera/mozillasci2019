@@ -13,9 +13,11 @@ people:
   position: Anthropologist
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/KadijaFerryman
+    - title: website
+      url: www.kadijaferryman.com
 
-- name: Julia Lowndes
+- name: Julia Stewart Lowndes
   pic: Julia
   position: Marine Ecologist / Data Scientist
   social:
@@ -27,7 +29,7 @@ people:
       url: https://github.com/jules32
 
 - name: Alex Morley
-  pic: 3
+  pic: Alex
   position: Neuroscientist
   text: This is some test text.
   social:
@@ -51,7 +53,7 @@ people:
       url: https://www.linkedin.com/in/ciera-martinez-phd-b77432120/
 
 - name: Daniela Saderi
-  pic: 3
+  pic: Daniela
   position: Neuroscientist
   social:
     - title: twitter
