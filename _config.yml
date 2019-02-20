@@ -16,7 +16,7 @@ people:
       url: #
 
 - name: Julia Lowndes
-  pic: 2
+  pic: Julia
   position: Marine Ecologist / Data Scientist
   social:
     - title: twitter
@@ -62,7 +62,7 @@ people:
       url: https://www.linkedin.com/in/daniela-saderi/
 
 - name: Andre Maia Chagas
-  pic: 3
+  pic: Andre
   position: Neuroscientist
   social:
     - title: twitter
