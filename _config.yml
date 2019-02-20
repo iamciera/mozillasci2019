@@ -27,6 +27,8 @@ people:
       url: https://www.linkedin.com/in/julia-stewart-lowndes
     - title: github
       url: https://github.com/jules32
+    - title: web
+      url: http://jules32.github.io
 
 - name: Alex Morley
   pic: Alex
@@ -42,7 +44,7 @@ people:
     
 
 - name: Ciera Martinez
-  pic: 3
+  pic: Ciera
   position: Evolutionary Biologist
   social:
     - title: twitter
