@@ -14,6 +14,11 @@ body {
     color: #{{ site.data.template.color.muted }};
 }
 
+.text-muted-bold {
+    color: #{{ site.data.template.color.muted }};
+    font-weight: bold;
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
