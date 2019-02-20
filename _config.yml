@@ -21,7 +21,7 @@ people:
 - name: Julia Stewart Lowndes
   pic: Julia
   position: Marine Ecologist & Data Scientist
-  text: I build communities of practice around environmental open data science. I recently launched <a href="https://openscapes.org"><b>openscapes</b></a> to engage, empower, and amplify scientists. It centers around a mentorship program and a <a href="https://openscapes.org/series">lesson series</a> that builds from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
+  text: I build and strengthen communities of practice around environmental open data science. <a href="https://openscapes.org"><b>Openscapes</b></a> is a program I just launched to engage, empower, and amplify scientists. It centers around a remote mentorship program for labs with a <a href="https://openscapes.github.io/series/">lesson series</a> building from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
   social:
     - title: twitter
       url: https://twitter.com/juliesquid
@@ -35,7 +35,7 @@ people:
 - name: Alex Morley
   pic: Alex
   position: Neuroscientist
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  text: I <a href="https://alexmorley.me/Back-Your-Scientific-Stack/">support</a> the development of software that is built around the needs of humans. I have been working with neuroscientists to build <a href="https://users.flatironinstitute.org/~magland/docs/"> an open platform </a> for automatically benchmark analysis algorithms, with data scientists to write <a href="https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science"> a handbook for reproducible data science </a>and designers to build a graphical interface for computational notebooks.
   social:
     - title: twitter
       url: https://twitter.com/alex__morley
