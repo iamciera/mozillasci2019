@@ -1,5 +1,5 @@
-url: 
-baseurl: 
+url:
+baseurl:
 
 # Site settings
 title: Mozilla Foundation
@@ -35,7 +35,7 @@ people:
 - name: Alex Morley
   pic: Alex
   position: Neuroscientist
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde. 
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
   social:
     - title: twitter
       url: https://twitter.com/alex__morley
@@ -43,11 +43,12 @@ people:
       url: https://www.linkedin.com/in/alexanderjmorley
     - title: github
       url: https://github.com/alexmorley
-    
+
 
 - name: Ciera Martinez
   pic: Ciera
   position: Evolutionary Biologist
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
   social:
     - title: twitter
       url: twitter.com/CieraReports
@@ -59,6 +60,7 @@ people:
 - name: Daniela Saderi
   pic: Daniela
   position: Neuroscientist
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
   social:
     - title: twitter
       url: twitter.com/Neurosarda
@@ -70,6 +72,7 @@ people:
 - name: Andre Maia Chagas
   pic: Andre
   position: Neuroscientist
+  text: I'm interested in pushing open science by building low-cost but high-performance scientific equipment using <a href="https://journals.plos.org/plosbiology/article/metrics?id=10.1371/journal.pbio.3000014">an Open Hardware paradigm</a>. Together with different groups and labs we have been building open science equipment and teaching others to do the same. We are now trying to build a global understanding of current research-tool needs that are not yet being met by competitive open hardware alternatives.
   social:
     - title: twitter
       url: twitter.com/chagas_am
@@ -86,7 +89,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
