@@ -48,8 +48,8 @@ people:
 - name: Ciera Martinez
   pic: Ciera
   position: Evolutionary Biologist
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
-  social:
+  text: 
+  One of the main missions of my work is to make scientific research and data more open and transparent. I do this by establishing best practices,  data standards, and creating education materials.  This year I have been working on making natural history data more usable, accessible, and valued. Visit curiositydata.org for more information on this project.
     - title: twitter
       url: twitter.com/CieraReports
     - title: github
