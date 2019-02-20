@@ -1,0 +1,89 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Mozilla Foundation
+email: your-email@domain.com
+description: "Information and links fromt the  Mozilla Open Science Fellows NYC Summit 2019"
+
+# Team names, titles and social links
+people:
+- name: Kadija Ferryman
+  pic: 1
+  position: Anthropologist
+  social:
+    - title: twitter
+      url: #
+
+- name: Julia Lowndes
+  pic: 2
+  position: Marine Ecologist / Data Scientist
+  social:
+    - title: twitter
+      url: https://twitter.com/juliesquid
+    - title: linkedin
+      url: https://www.linkedin.com/in/julia-stewart-lowndes
+    - title: github
+      url: https://github.com/jules32
+
+- name: Alex Morley
+  pic: 3
+  position: Neuroscientist
+  social:
+    - title: twitter
+      url: https://twitter.com/alexmorley
+    - title: linkedin
+      url: https://www.linkedin.com/in/alexanderjmorley
+    - title: github
+      url: https://github.com/alexmorley
+    
+
+- name: Ciera Martinez
+  pic: 3
+  position: Evolutionary Biologist
+  social:
+    - title: twitter
+      url: twitter.com/CieraReports
+    - title: github
+      url: http://github.com/iamciera
+    - title: linkedin
+      url: https://www.linkedin.com/in/ciera-martinez-phd-b77432120/
+
+- name: Daniela Saderi
+  pic: 3
+  position: Neuroscientist
+  social:
+    - title: twitter
+      url: twitter.com/Neurosarda
+    - title: github
+      url: http://github.com/dasaderi
+    - title: linkedin
+      url: https://www.linkedin.com/in/daniela-saderi/
+
+- name: Andre Maia Chagas
+  pic: 3
+  position: Neuroscientist
+  social:
+    - title: twitter
+      url: twitter.com/chagas_am
+    - title: github
+      url: http://github.com/amchagas
+    - title: linkedin
+      url: https://www.linkedin.com/in/amaiachagas/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
