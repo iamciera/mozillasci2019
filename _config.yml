@@ -35,7 +35,7 @@ people:
 - name: Alex Morley
   pic: Alex
   position: Neuroscientist
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  text: I <a href="https://alexmorley.me/Back-Your-Scientific-Stack/">support</a> the development of software that is built around the needs of humans. I have been working with neuroscientists to build <a href="https://users.flatironinstitute.org/~magland/docs/"> an open platform </a> for automatically benchmark analysis algorithms, with data scientists to write <a href="https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science"> a handbook for reproducible data science </a>and designers to build a graphical interface for computational notebooks.
   social:
     - title: twitter
       url: https://twitter.com/alex__morley
