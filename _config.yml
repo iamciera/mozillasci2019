@@ -60,7 +60,7 @@ people:
 - name: Daniela Saderi
   pic: Daniela
   position: Neuroscientist
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  text: I am an open science advocate, passionate about research and making scientific output available to everyone to advance knowledge and improve transparency. I recently co-founded <a href=”https://www.prereview.org/”>PREreview</a>, a free online platform to collaboratively write reviews of preprints after discussions at academic journal clubs.
   social:
     - title: twitter
       url: twitter.com/Neurosarda
