@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Mozilla Foundation
 email: your-email@domain.com
-description: "Information and links fromt the  Mozilla Open Science Fellows NYC Summit 2019"
+description: "Information and links from the  Mozilla Open Science Fellows NYC Summit 2019"
 
 # Team names, titles and social links
 people:
@@ -20,7 +20,7 @@ people:
 - name: Julia Stewart Lowndes
   pic: Julia
   position: Marine Ecologist / Data Scientist
-  text: I build and strengthen communities of practice around environmental open data science. [Openscapes](https://openscapes.org) and its [lessons series](https://openscapes.org/series) builds off of [Lowndes et al. 2017 Our path to better science in less time using open data science tools)[https://www.nature.com/articles/s41559-017-0160].
+  text: I build and strengthen communities of practice around environmental open data science. <a href="https://openscapes.org">Openscapes</a> and its <a href="https://openscapes.org/series">lessons series</a> builds off of <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
 
   social:
     - title: twitter
