@@ -14,7 +14,7 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/KadijaFerryman
-    - title: website
+    - title: link
       url: www.kadijaferryman.com
 
 - name: Julia Stewart Lowndes
@@ -27,7 +27,7 @@ people:
       url: https://www.linkedin.com/in/julia-stewart-lowndes
     - title: github
       url: https://github.com/jules32
-    - title: web
+    - title: link
       url: http://jules32.github.io
 
 - name: Alex Morley
