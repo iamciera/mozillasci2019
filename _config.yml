@@ -20,6 +20,8 @@ people:
 - name: Julia Stewart Lowndes
   pic: Julia
   position: Marine Ecologist / Data Scientist
+  text: I build and strengthen communities of practice around environmental open data science. [Openscapes](https://openscapes.org) and its [lessons series](https://openscapes.org/series) builds off of [Lowndes et al. 2017 Our path to better science in less time using open data science tools)[https://www.nature.com/articles/s41559-017-0160].
+
   social:
     - title: twitter
       url: https://twitter.com/juliesquid
