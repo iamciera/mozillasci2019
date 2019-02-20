@@ -11,7 +11,7 @@ people:
 - name: Kadija Ferryman
   pic: Kadija
   position: Anthropologist
-  text: I examine <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics</a>, openness, and ,a href="https://cancerletter.com/articles/20181116_1/">inclusion</a> in data-driven precision medicine. 
+  text: I examine <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics</a>, openness, and <a href="https://cancerletter.com/articles/20181116_1/">inclusion</a> in data-driven precision medicine. 
   social:
     - title: twitter
       url: https://twitter.com/KadijaFerryman
