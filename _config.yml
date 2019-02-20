@@ -31,7 +31,7 @@ people:
 - name: Alex Morley
   pic: Alex
   position: Neuroscientist
-  text: This is some test text.
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam <a href="url">link text</a> veritatis,quos non quis ad perspiciatis, totam corporis ea, alias ut unde. 
   social:
     - title: twitter
       url: https://twitter.com/alex__morley
