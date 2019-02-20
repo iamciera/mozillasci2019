@@ -640,6 +640,7 @@ section h3.section-subheading {
 .team-member {
     margin-bottom: 50px;
     text-align: center;
+    min-height: 620px;
 }
 
 .team-member img {
