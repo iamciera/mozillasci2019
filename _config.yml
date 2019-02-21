@@ -60,7 +60,7 @@ people:
 - name: Daniela Saderi   
   pic: Daniela   
   position: Neuroscientist
-  text: I am an open science advocate, passionate about research andmaking scientific output available to everyone to advance knowledgeand improve transparency. I recently co-founded <ahref=”https://www.prereview.org/”>PREreview</a>, a free online platform anda community to post, read and engage with preprint reviews. Follow our progress on <a href = "https://github.com/PREreview"> Github</a> and on <a href = https://twitter.com/PREreview_> Twitter </a>.   
+  text: I am an open science advocate, passionate about research andmaking scientific output available to everyone to advance knowledgeand improve transparency. I recently co-founded <a href= "https://www.prereview.org/"> PREreview </a>, a free online platform anda community to post, read and engage with preprint reviews. Follow our progress on <a href = "https://github.com/PREreview"> Github</a> and on <a href = https://twitter.com/PREreview_> Twitter </a>.   
   social:     
     - title: twitter       
       url: https://twitter.com/Neurosarda     
@@ -72,7 +72,7 @@ people:
 - name: Andre Maia Chagas
   pic: Andre
   position: Neuroscientist
-  text: I'm interested in pushing open science by building low-cost but high-performance scientific equipment using <a href="https://journals.plos.org/plosbiology/article/metrics?id=10.1371/journal.pbio.3000014">an Open Hardware paradigm</a>. Together with different groups and labs we have been building open science equipment and teaching others to do the same. We are now trying to build a global understanding of current research-tool needs that are not yet being met by competitive open hardware alternatives.
+  text: I am interested in pushing open science by building low-cost but high-performance scientific equipment using <a href="https://journals.plos.org/plosbiology/article/metrics?id=10.1371/journal.pbio.3000014">an Open Hardware paradigm</a>. Together with different groups and labs we have been building open science equipment and teaching others to do the same. We are now trying to build a global understanding of current research-tool needs that are not yet being met by competitive open hardware alternatives.
   social:
     - title: twitter
       url: twitter.com/chagas_am
