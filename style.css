@@ -1,3 +1,11 @@
 ---
 layout: style
 ---
+
+#moz {
+  font-family: 'Zilla Slab', serif;
+  font-weight: bold;
+  color: white;
+  font-size: 30pt;
+}
+
