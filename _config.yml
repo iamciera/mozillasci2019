@@ -11,7 +11,8 @@ people:
 - name: Kadija Ferryman
   pic: Kadija
   position: Anthropologist
-  text: I examine <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics</a>, openness, and <a href="https://cancerletter.com/articles/20181116_1/">inclusion</a> in data-driven precision medicine. 
+  text: I examine <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics</a>, openness, 
+  and <a href="https://cancerletter.com/articles/20181116_1/">inclusion</a> in data-driven precision medicine. 
   social:
     - title: twitter
       url: https://twitter.com/KadijaFerryman
@@ -21,7 +22,10 @@ people:
 - name: Julia Stewart Lowndes
   pic: Julia
   position: Marine Ecologist & Data Scientist
-  text: I build and strengthen communities of practice around environmental open data science. <a href="https://openscapes.org"><b>Openscapes</b></a> is a program I just launched to engage, empower, and amplify scientists. It centers around a remote mentorship program for labs with a <a href="https://openscapes.github.io/series/">lesson series</a> building from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
+  text: I build and strengthen communities of practice around environmental open data science. 
+  <a href="https://openscapes.org"><b>Openscapes</b></a> is a program I just launched to engage, empower, and amplify scientists. 
+  It centers around a remote mentorship program for labs with a <a href="https://openscapes.github.io/series/">lesson series</a> 
+  building from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
   social:
     - title: twitter
       url: https://twitter.com/juliesquid
@@ -35,7 +39,11 @@ people:
 - name: Alex Morley
   pic: Alex
   position: Neuroscientist
-  text: I <a href="https://alexmorley.me/Back-Your-Scientific-Stack/">support</a> the development of software that is built around the needs of humans. I have been working with neuroscientists to build <a href="https://users.flatironinstitute.org/~magland/docs/"> an open platform </a> for automatically benchmark analysis algorithms, with data scientists to write <a href="https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science"> a handbook for reproducible data science </a>and designers to build a graphical interface for computational notebooks.
+  text: I <a href="https://alexmorley.me/Back-Your-Scientific-Stack/">support</a> the development of software that is built around 
+  the needs of humans. I have been working with neuroscientists to build <a href="https://users.flatironinstitute.org/~magland/docs/"> 
+  an open platform </a> for automatically benchmark analysis algorithms, with data scientists to write 
+  <a href="https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science"> a 
+  handbook for reproducible data science </a>and designers to build a graphical interface for computational notebooks.
   social:
     - title: twitter
       url: https://twitter.com/alex__morley
@@ -48,7 +56,9 @@ people:
 - name: Ciera Martinez
   pic: Ciera
   position: Evolutionary Biologist
-  text: One of the main missions of my work is to make scientific research and data more open and transparent. I do this by establishing best practices,  data standards, and creating education materials.  This year I have been working on making natural history data more usable, accessible, and valued. Visit curiositydata.org for more information on this project.
+  text: One of the main missions of my work is to make scientific research and data more open and transparent. I do this by 
+  establishing best practices,  data standards, and creating education materials.  This year I have been working on making natural 
+  history data more usable, accessible, and valued. Visit curiositydata.org for more information on this project.
     - title: twitter
       url: twitter.com/CieraReports
     - title: github
@@ -59,10 +69,13 @@ people:
 - name: Daniela Saderi
   pic: Daniela
   position: Neuroscientist
-  text: I am an open science advocate, passionate about research and making scientific output available to everyone to advance knowledge and improve transparency. I recently co-founded <a href=”https://www.prereview.org/”>PREreview</a>, a free online platform to collaboratively write reviews of preprints after discussions at academic journal clubs.
+  text: I am an open science advocate, passionate about research and making scientific output available to everyone to advance 
+  knowledge and improve transparency. I recently co-founded <a href=”https://www.prereview.org/”>PREreview</a>, a free online platform and
+  a community to post, read and engage with preprint reviews. Follow our progress on [GitHub](https://github.com/PREreview)
+  and on [Twitter](https://twitter.com/PREreview_).
   social:
     - title: twitter
-      url: twitter.com/Neurosarda
+      url: https://twitter.com/Neurosarda
     - title: github
       url: http://github.com/dasaderi
     - title: linkedin
@@ -71,7 +84,11 @@ people:
 - name: Andre Maia Chagas
   pic: Andre
   position: Neuroscientist
-  text: I'm interested in pushing open science by building low-cost but high-performance scientific equipment using <a href="https://journals.plos.org/plosbiology/article/metrics?id=10.1371/journal.pbio.3000014">an Open Hardware paradigm</a>. Together with different groups and labs we have been building open science equipment and teaching others to do the same. We are now trying to build a global understanding of current research-tool needs that are not yet being met by competitive open hardware alternatives.
+  text: I'm interested in pushing open science by building low-cost but high-performance scientific equipment using 
+  <a href="https://journals.plos.org/plosbiology/article/metrics?id=10.1371/journal.pbio.3000014">an Open Hardware paradigm</a>. 
+  Together with different groups and labs we have been building open science equipment and teaching others to do the same. We are 
+  now trying to build a global understanding of current research-tool needs that are not yet being met by competitive open hardware 
+  alternatives.
   social:
     - title: twitter
       url: twitter.com/chagas_am
