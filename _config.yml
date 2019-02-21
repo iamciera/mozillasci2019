@@ -11,7 +11,7 @@ people:
 - name: Kadija Ferryman
   pic: Kadija
   position: Anthropologist
-  text: I examine <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics</a>, openness, and <a href="https://cancerletter.com/articles/20181116_1/">inclusion</a> in data-driven precision medicine. 
+  text: I conduct research on the <a href="https://datasociety.net/research/fairness-precision-medicine/">ethics and social impacts</a> of precision medicine. My work provides a critical perspective on openness and <a href="https://cancerletter.com/articles/20181116_1">inclusion</a> in the development of data-driven health technology.
   social:
     - title: twitter
       url: https://twitter.com/KadijaFerryman
@@ -21,7 +21,7 @@ people:
 - name: Julia Stewart Lowndes
   pic: Julia
   position: Marine Ecologist & Data Scientist
-  text: I build and strengthen communities of practice around environmental open data science. <a href="https://openscapes.org"><b>Openscapes</b></a> is a program I just launched to engage, empower, and amplify scientists. It centers around a remote mentorship program for labs with a <a href="https://openscapes.github.io/series/">lesson series</a> building from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
+  text: I build and strengthen communities of practice around environmental open data science. <a href="https://openscapes.org">Openscapes</a> is a program I just launched to engage, empower, and amplify scientists. It centers around a remote mentorship program for labs with a <a href="https://openscapes.github.io/series/">lesson series</a> building from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes et al. 2017</a>.
   social:
     - title: twitter
       url: https://twitter.com/juliesquid
